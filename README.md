@@ -38,7 +38,9 @@ git push --set--upstream origin main
 after you save your files go to gitBash and navigate to the folder of your project. (or right click the folder on your desktop or file explorer and click 'Git Bash Here')
  
 git add .
+
 git commit -m "message here"
+
 git push
  
  
@@ -49,11 +51,17 @@ some helpful keyboard shortcuts.
 just to be clear the plus sign just means and. 
 
 alt + z - word wrap (makes all the text fit inside your screen)
+
 control + a - highlights all text
+
 control + / - will turn highlighted text into a comment. if not highlighted it will comment the current line.
+
 alt + tab - shift between applications 
+
 alt + shift + tab - same as above but backwards
 
 in git bash: 
+
 control + insert - copy (insert is usually above backspace and my keyboard makes me hit another key, fn to get to insert)
+
 shift + insert - paste 
