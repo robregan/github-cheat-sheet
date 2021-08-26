@@ -16,8 +16,8 @@ git init (this will initialize empty git repo on your computer, so it can keep t
  
 git branch -M main (here we are just changing the name of our branch from master to main, it is the more updated way)
  
-git remote add origin https://github.com/<username>/<repo-name>.git (adds the remote repo to your local folder, you can copy and paste this line from github.com after you create a new repo)
-    -- also when you see these <> in a code example you dont include them
+git remote add origin https://github.com/username/repo-name.git (adds the remote repo to your local folder, you can copy and paste this line from github.com after you create a new repo)
+    
  
 -----------
  
