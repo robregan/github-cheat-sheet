@@ -10,7 +10,7 @@ make a new folder for new project ('mkdir' will create a new folder, 'touch' wil
  
 mkdir new-project
  
-cd new-project
+cd new-project (cd stands for Change Directory, it is how we can navigate through the file system.)
  
 git init (this will initialize empty git repo on your computer, so it can keep track of any changes)
  
