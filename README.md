@@ -1,4 +1,4 @@
-**github cheat sheet**
+# **github cheat sheet**
  
 when you make a new repo on github.com you need to add the remote repo to your local folder
  
@@ -33,7 +33,7 @@ git commit -m "your commit message. for codewars I put the name and level of kat
 git push --set--upstream origin main
  
  
--- for existing repos, that have already been initialized..
+# **for existing repos, that have already been initialized..**
  
 after you save your files go to gitBash and navigate to the folder of your project. (or right click the folder on your desktop or file explorer and click 'Git Bash Here')
  
