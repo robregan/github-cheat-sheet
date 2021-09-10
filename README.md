@@ -46,7 +46,7 @@ git push
  
 https://ohshitgit.com/ - this site will help if you run into any issues
 
-some helpful keyboard shortcuts.
+# some helpful keyboard shortcuts.
 
 just to be clear the plus sign just means and. 
 
